@@ -1,0 +1,6 @@
+[submodule "countries"]
+	path = countries
+	url = git@github.com:mledoze/countries.git
+[submodule "geojson-map-china"]
+	path = geojson-map-china
+	url = git@github.com:longwosion/geojson-map-china.git
